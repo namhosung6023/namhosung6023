@@ -1,11 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
-# Welcome to Rocher's Github!
+# Welcome to Hosung's Github!
 
 ## 🐥 Profile
 
-🇰🇷 Inha University Dept. of Computer Science & Engineering (2019~) <br/>
-🇺🇸 Taylor University, Upland Indiana (2023.01 - 2023.05) <br/>
-⚒ WIPS (2021.08 ~ 2021.12)
+🇰🇷 Dongyang Mirae University Dept. of Computer Science & Engineering (2020~) <br/>
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhosung6023&show_icons=true&theme=radical)
