@@ -60,6 +60,19 @@
 
 <br><br>
 
+## 🌱 Antecedents
+
+- Wips (주)윕스 정보화전략팀 개발부서 Frontend 인턴
+- 10th MakeUs CMC Web Part
+- 21st YAPP Web Part
+- Team Leader & Developer : 인하대학교 하이테크관 소개 3D 게임 - 놀러와요 인하텍!
+- Developer : 힐링을 위한 마을 키우기 게임 - The Village
+- Developer : 지역 공동구매 어플 - 여기붙어
+- Dev Product Manager & Frontend Developer : 더 편리한 덕질을 위한 굿즈 나눔 서비스 - Hannip
+- Front-end Developer : 대학생 팀플 관리 서비스 - TimiTimi
+
+<br><br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhosung6023&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact)](https://github.com/namhosung6023/github-readme-stats)
 
