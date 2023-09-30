@@ -6,7 +6,7 @@
 🇰🇷 Dongyang Mirae University Dept. of Computer Science & Engineering (2020~) <br/>
 <br><br>
 
-## 🔨 Once I've used 🔨
+## 🔨 Languages 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
