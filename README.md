@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+# Welcome to Rocher's Github!
 
+## 🐥 Profile
+
+🇰🇷 Inha University Dept. of Computer Science & Engineering (2019~) <br/>
+🇺🇸 Taylor University, Upland Indiana (2023.01 - 2023.05) <br/>
+⚒ WIPS (2021.08 ~ 2021.12)
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhosung6023&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact)](https://github.com/namhosung6023/github-readme-stats)
