@@ -25,7 +25,6 @@
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
     <!-- Frontend -->
@@ -51,7 +50,7 @@
 
 |                                              Project                                              |               Contest                |       Tech Stack       | Award | Year |
 | :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
-| [힐링을 위한 마을 키우기 게임 : 더빌리지 The Village](https://github.com/openingsound/TheVillage) | 아랩 스타트업 인디게임 개발 경진대회 |       Unity, C#        | 참여  | 2020 |
+|                        [홈트레이닝 관리 어플- FITWITH ]                                           |         BESIGN 스타트업 회사          |       flutter         | 참여  | 2020 |
 |       [추억:인쇄소](https://drive.google.com/file/d/1kh6ypadoPtBwh9cuYao8iJoTdi9xxj3X/view)       |    인하대학교 아이디어톤 경진대회    |           -            |  2위  | 2020 |
 |  [인하대학교 하이테크관 소개 게임 - 놀러와요 인하텍!](https://github.com/rocher71/highTechGhost)  |           2020 IT 경진대회           |       Unity, C#        | 대상  | 2020 |
 |             [지역 공동구매 어플 : 여기붙어](https://github.com/7Princesses/ComeHere)              |     인하 슈퍼챌린지 해커톤 대회      |          Java          | 참여  | 2021 |
