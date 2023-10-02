@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 # Welcome to Hosung's Github!
- Log.d("BasicSyntax", "myName = $myName, myAge = $myAge")
+                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 ## 🐥 Profile
 
