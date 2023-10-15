@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
-# Welcome to Hosung's Github!
+# Welcome to Hosung Github!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 ## 🐥 Profile
 
 🇰🇷 Dongyang Mirae University Dept. of Computer Science & Engineering (2020~) <br/>
-<br><br>
+<br><br> 
 
 ## 🔨 Languages 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
