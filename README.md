@@ -9,7 +9,7 @@
 <br><br>   
 ## 🔨 Languages 🔨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokonight)](https://github.com/namhosung6023/github-readme-stats)
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=yewon-le&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewon-le&layout=compact&theme=tokyonight" />
 </p>
