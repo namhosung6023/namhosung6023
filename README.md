@@ -8,6 +8,7 @@
 🇰🇷 Dongyang Mirae University Dept. of Computer Science & Engineering (2020~) <br/>
 <br><br>   
 ## 🔨 Languages 🔨
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokonight)](https://github.com/namhosung6023/github-readme-stats)
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -45,6 +46,7 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </div><br>
+</div>
 
 ## 🌱 Projects
 
