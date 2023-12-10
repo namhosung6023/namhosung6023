@@ -53,7 +53,9 @@
 |                                              Project                                              |               Contest                |       Tech Stack       | Award | Year |
 | :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
 |                        [홈트레이닝 관리 어플- FITWITH ]                                           |         BESIGN 스타트업 회사          |       flutter, Mongo.DB . Aws        | 참여  | 2020 |
-
+| :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
+|                        [  Dasom 전공동아리 홈페이지 구현  ]                                       |                                       |      Spring, Aws , git                 | 진행중  | 2023 |
+| :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
 <br><br>
 
 ## 🌱 Antecedents
@@ -66,8 +68,8 @@
 <br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hosung6023)](https://solved.ac/hosung6023)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhosung6023&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact)](https://github.com/namhosung6023/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhosung6023&show_icons=true&theme=radical)
 
 
 
