@@ -10,7 +10,6 @@
 ## 🔨 Languages 🔨
 <p align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokonight)](https://github.com/namhosung6023/github-readme-stats)
-</p>
 <p><strong>Backend</strong></p>
    <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
