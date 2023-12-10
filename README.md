@@ -9,7 +9,6 @@
 <br><br>   
     
 ## 🔨 Languages 🔨  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokonight)](https://github.com/namhosung6023/github-readme-stats)
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
             
     <!-- Backend -->
