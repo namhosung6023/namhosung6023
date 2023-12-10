@@ -63,9 +63,7 @@
 - Team Leader & Developer : Todo list website (토이프로젝트 ) 
 
 <br><br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hosung6023)](https://solved.ac/hosung6023)
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hosung6023)](https://solved.ac/hosung6023)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhosung6023&show_icons=true&theme=radical)
 
 
