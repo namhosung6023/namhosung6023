@@ -10,9 +10,7 @@
 ## 🔨 Languages 🔨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokonight)](https://github.com/namhosung6023/github-readme-stats)
 <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=yewon-le&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewon-le&layout=compact&theme=tokyonight" />
-</p>
 <p><strong>Backend</strong></p>
    <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -47,7 +45,7 @@
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-</div><br>
+</div><br></p>
 
 ## 🌱 Projects
 
