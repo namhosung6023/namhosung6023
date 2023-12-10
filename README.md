@@ -9,7 +9,6 @@
 <br><br>   
 ## 🔨 Languages 🔨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokonight)](https://github.com/namhosung6023/github-readme-stats)
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
@@ -46,7 +45,6 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </div><br>
-</div>
 
 ## 🌱 Projects
 
