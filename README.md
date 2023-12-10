@@ -68,7 +68,7 @@
 <br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hosung6023)](https://solved.ac/hosung6023)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact)](https://github.com/namhosung6023/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokonight)](https://github.com/namhosung6023/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhosung6023&show_icons=true&theme=radical)
 
 
