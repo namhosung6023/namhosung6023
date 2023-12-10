@@ -7,9 +7,10 @@
 ## 🐥 Profils
 🇰🇷 Dongyang Mirae University Dept. of Computer Science & Engineering (2020~) <br/>
 <br><br>   
-## 🔨 Languages 🔨  
+## 🔨 Languages 🔨
+<a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokonight)](https://github.com/namhosung6023/github-readme-stats)
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokonight)](https://github.com/namhosung6023/github-readme-stats)
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
@@ -55,7 +56,6 @@
 |                        [홈트레이닝 관리 어플- FITWITH ]                                           |         BESIGN 스타트업 회사          |       flutter, Mongo.DB . Aws        | 참여  | 2020 |
 | :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
 |                        [  Dasom 전공동아리 홈페이지 구현  ]                                       |                                       |      Spring, Aws , git                 | 진행중  | 2023 |
-| :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
 <br><br>
 
 ## 🌱 Antecedents
