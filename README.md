@@ -8,7 +8,6 @@
 🇰🇷 Dongyang Mirae University Dept. of Computer Science & Engineering (2020~) <br/>
 <br><br>   
 ## 🔨 Languages 🔨
-<p align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokonight)](https://github.com/namhosung6023/github-readme-stats)
 <p><strong>Backend</strong></p>
    <div>
