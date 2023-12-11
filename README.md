@@ -47,7 +47,7 @@
 </div>
 
 <!-- Language Stats in Center-Right -->
-<div align="right" style="position: absolute; right: 10%;">
+<div align="center" style="position: absolute; right: 10%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokyonight" />
 </div>
 
