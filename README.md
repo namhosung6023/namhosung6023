@@ -29,6 +29,7 @@
             <div  align="right" style="position: absolute; right: 10%;">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokyonight" />
             </div>
+            <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
 </div>
 <!-- Frontend -->
 <p><strong>Frontend</strong></p>
