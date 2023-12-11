@@ -23,10 +23,10 @@
 </div>
 <!-- Server -->
 <p><strong>Server</strong></p>
-<div>
+<div align="float : left">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-            <div  align="float" style="position: absolute; right: 10%;">
+            <div  align="float : right" style="position: absolute; right: 10%;">
                         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokyonight" />
             </div>
