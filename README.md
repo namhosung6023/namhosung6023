@@ -25,7 +25,10 @@
 <p><strong>Server</strong></p>
 <div>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">  
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+            <div style="float: right;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhosung6023&layout=compact&theme=tokyonight" />
+</div>
 </div>
 <!-- Frontend -->
 <p><strong>Frontend</strong></p>
